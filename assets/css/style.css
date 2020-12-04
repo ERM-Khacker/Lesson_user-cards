@@ -21,6 +21,10 @@ body{
 }
 .card-header{
   margin-bottom: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
 }
 .money{
   margin-bottom: 1.7em;
